@@ -3,13 +3,16 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <html>
 <head>
-	<title>Home</title>
+	<title>게시판 메인</title>
 </head>
 <body>
-<h1>
-	Hello world!  
-</h1>
 
+<a href="/board/write">글 작성</a> <br />
+<a href="/board/list">글 목록</a><br />
+<a href="/board/listPage">글 목록 + 페이지</a><br />
+
+
+<!-- 내용 추가 -->
 <P>  The time on the server is ${serverTime}. </P>
 </body>
 </html>
