@@ -9,7 +9,10 @@
 
 <!--  <a href="/board/write">글 작성</a> <br />-->
 
-<p><a href="/board/list">게시글 목록</a></p>
+<p>
+<a href="/board/list">게시글 목록</a><br />
+<a href="/board/write">게시물 작성</a>
+</p>
 <!-- <a href="/board/listPage">글 목록 + 페이지</a><br /> -->
 
 
